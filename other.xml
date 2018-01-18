@@ -50,18 +50,21 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="/Volumes/VIDEO/Yandex.disk/Yandex.Disk.localized/ProjectsPython/Experts/experts/bin/python" value="false" />
         <entry key="/usr/bin/python" value="false" />
         <entry key="/usr/local/bin/python3" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="/Volumes/VIDEO/Yandex.disk/Yandex.Disk.localized/ProjectsPython/Experts/experts/bin/python" value="false" />
         <entry key="/usr/bin/python" value="false" />
         <entry key="/usr/local/bin/python3" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
+        <entry key="/Volumes/VIDEO/Yandex.disk/Yandex.Disk.localized/ProjectsPython/Experts/experts/bin/python" value="false" />
         <entry key="/usr/bin/python" value="false" />
         <entry key="/usr/local/bin/python3" value="false" />
       </map>
